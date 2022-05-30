@@ -27,8 +27,8 @@ n^2 baskınlığı ile Big-O gösterimi = O(n^2)
 
 ## 3. Problem
 
-Average Case : O(n^2) aranılan sayının ortada olması
-Worst Case: O(n^2) aranılan sayının en sonda bulunması
+Average Case : O(n^2) aranılan sayının ortada olması,
+Worst Case: O(n^2) aranılan sayının en sonda bulunması,
 Best Case : O(n) aranılan sayının en başta bulunması
 
 ## 4. Problem
